@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 596,
-    "timeDay": 596,
-    "timeWeek": 596,
-    "timeMonth": 596,
-    "timeYear": 596,
+    "time": 680,
+    "timeDay": 680,
+    "timeWeek": 680,
+    "timeMonth": 680,
+    "timeYear": 680,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,31 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 737,
-    "timeDay": 737,
-    "timeWeek": 737,
-    "timeMonth": 737,
-    "timeYear": 737,
+    "time": 755,
+    "timeDay": 755,
+    "timeWeek": 755,
+    "timeMonth": 755,
+    "timeYear": 755,
     "dailyMinutesDown": {}
+  },
+  {
+    "name": "static.hstd.au",
+    "url": "https://static.hstd.au",
+    "icon": "https://icons.duckduckgo.com/ip3/static.hstd.au.ico",
+    "slug": "static-hstd-au",
+    "status": "down",
+    "uptime": "40.35%",
+    "uptimeDay": "40.35%",
+    "uptimeWeek": "40.35%",
+    "uptimeMonth": "40.35%",
+    "uptimeYear": "40.35%",
+    "time": 837,
+    "timeDay": 837,
+    "timeWeek": 837,
+    "timeMonth": 837,
+    "timeYear": 837,
+    "dailyMinutesDown": {
+      "2024-06-02": 0
+    }
   }
 ]
