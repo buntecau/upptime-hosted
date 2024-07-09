@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 755,
-    "timeDay": 798,
-    "timeWeek": 796,
-    "timeMonth": 749,
-    "timeYear": 755,
+    "time": 753,
+    "timeDay": 674,
+    "timeWeek": 759,
+    "timeMonth": 752,
+    "timeYear": 753,
     "dailyMinutesDown": {}
   },
   {
@@ -24,15 +24,15 @@
     "slug": "api-hstd-au",
     "status": "up",
     "uptime": "99.96%",
-    "uptimeDay": "98.64%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.81%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.96%",
-    "time": 782,
-    "timeDay": 805,
-    "timeWeek": 799,
-    "timeMonth": 781,
-    "timeYear": 782,
+    "time": 778,
+    "timeDay": 622,
+    "timeWeek": 787,
+    "timeMonth": 782,
+    "timeYear": 778,
     "dailyMinutesDown": {
       "2024-07-07": 20
     }
@@ -48,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 720,
-    "timeDay": 1004,
-    "timeWeek": 771,
-    "timeMonth": 716,
-    "timeYear": 720,
+    "time": 718,
+    "timeDay": 617,
+    "timeWeek": 757,
+    "timeMonth": 718,
+    "timeYear": 718,
     "dailyMinutesDown": {}
   }
 ]
