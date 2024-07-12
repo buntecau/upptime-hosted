@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 756,
-    "timeDay": 866,
-    "timeWeek": 788,
-    "timeMonth": 759,
-    "timeYear": 756,
+    "time": 761,
+    "timeDay": 985,
+    "timeWeek": 810,
+    "timeMonth": 769,
+    "timeYear": 761,
     "dailyMinutesDown": {}
   },
   {
@@ -23,16 +23,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.hstd.au.ico",
     "slug": "api-hstd-au",
     "status": "up",
-    "uptime": "99.96%",
+    "uptime": "99.97%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.81%",
     "uptimeMonth": "99.96%",
-    "uptimeYear": "99.96%",
-    "time": 778,
-    "timeDay": 803,
-    "timeWeek": 796,
-    "timeMonth": 786,
-    "timeYear": 778,
+    "uptimeYear": "99.97%",
+    "time": 783,
+    "timeDay": 990,
+    "timeWeek": 799,
+    "timeMonth": 793,
+    "timeYear": 783,
     "dailyMinutesDown": {
       "2024-07-07": 20
     }
@@ -48,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 721,
-    "timeDay": 795,
-    "timeWeek": 747,
-    "timeMonth": 728,
-    "timeYear": 721,
+    "time": 722,
+    "timeDay": 794,
+    "timeWeek": 754,
+    "timeMonth": 730,
+    "timeYear": 722,
     "dailyMinutesDown": {}
   }
 ]
