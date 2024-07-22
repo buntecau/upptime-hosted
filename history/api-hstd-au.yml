@@ -1,7 +1,7 @@
 url: https://api.hstd.au/health
-status: down
-code: 502
-responseTime: 773
-lastUpdated: 2024-07-22T16:52:11.536Z
+status: up
+code: 200
+responseTime: 735
+lastUpdated: 2024-07-22T17:38:03.005Z
 startTime: 2024-06-02T11:01:16.308Z
 generator: Upptime <https://github.com/upptime/upptime>
