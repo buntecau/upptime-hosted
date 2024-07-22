@@ -4,19 +4,19 @@
     "url": "https://hstd.au",
     "icon": "https://icons.duckduckgo.com/ip3/hstd.au.ico",
     "slug": "hstd-au",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 767,
-    "timeDay": 788,
-    "timeWeek": 805,
-    "timeMonth": 781,
-    "timeYear": 767,
+    "status": "up",
+    "uptime": "99.97%",
+    "uptimeDay": "98.71%",
+    "uptimeWeek": "99.82%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.97%",
+    "time": 771,
+    "timeDay": 862,
+    "timeWeek": 828,
+    "timeMonth": 788,
+    "timeYear": 771,
     "dailyMinutesDown": {
-      "2024-07-22": 0
+      "2024-07-22": 19
     }
   },
   {
@@ -25,18 +25,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.hstd.au.ico",
     "slug": "api-hstd-au",
     "status": "down",
-    "uptime": "99.95%",
-    "uptimeDay": "98.86%",
-    "uptimeWeek": "99.84%",
-    "uptimeMonth": "99.92%",
-    "uptimeYear": "99.95%",
+    "uptime": "99.92%",
+    "uptimeDay": "97.57%",
+    "uptimeWeek": "99.65%",
+    "uptimeMonth": "99.88%",
+    "uptimeYear": "99.92%",
     "time": 816,
     "timeDay": 816,
     "timeWeek": 1007,
     "timeMonth": 848,
     "timeYear": 816,
     "dailyMinutesDown": {
-      "2024-07-22": 16,
+      "2024-07-22": 35,
       "2024-07-07": 20
     }
   },
@@ -45,19 +45,19 @@
     "url": "https://static.hstd.au",
     "icon": "https://icons.duckduckgo.com/ip3/static.hstd.au.ico",
     "slug": "static-hstd-au",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 735,
-    "timeDay": 755,
-    "timeWeek": 822,
-    "timeMonth": 748,
-    "timeYear": 735,
+    "status": "up",
+    "uptime": "99.97%",
+    "uptimeDay": "98.71%",
+    "uptimeWeek": "99.82%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.97%",
+    "time": 740,
+    "timeDay": 830,
+    "timeWeek": 839,
+    "timeMonth": 755,
+    "timeYear": 740,
     "dailyMinutesDown": {
-      "2024-07-22": 0
+      "2024-07-22": 19
     }
   }
 ]
