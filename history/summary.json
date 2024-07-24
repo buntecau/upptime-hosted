@@ -5,19 +5,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/hstd.au.ico",
     "slug": "hstd-au",
     "status": "up",
-    "uptime": "99.97%",
-    "uptimeDay": "98.71%",
-    "uptimeWeek": "99.82%",
-    "uptimeMonth": "99.96%",
-    "uptimeYear": "99.97%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 772,
-    "timeDay": 868,
-    "timeWeek": 834,
-    "timeMonth": 786,
+    "timeDay": 736,
+    "timeWeek": 808,
+    "timeMonth": 780,
     "timeYear": 772,
-    "dailyMinutesDown": {
-      "2024-07-22": 19
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "api.hstd.au",
@@ -25,20 +23,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.hstd.au.ico",
     "slug": "api-hstd-au",
     "status": "up",
-    "uptime": "99.91%",
-    "uptimeDay": "96.81%",
-    "uptimeWeek": "99.54%",
-    "uptimeMonth": "99.85%",
-    "uptimeYear": "99.91%",
-    "time": 811,
-    "timeDay": 711,
-    "timeWeek": 806,
-    "timeMonth": 838,
-    "timeYear": 811,
-    "dailyMinutesDown": {
-      "2024-07-22": 46,
-      "2024-07-07": 20
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 813,
+    "timeDay": 938,
+    "timeWeek": 821,
+    "timeMonth": 835,
+    "timeYear": 813,
+    "dailyMinutesDown": {}
   },
   {
     "name": "static.hstd.au",
@@ -46,18 +41,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/static.hstd.au.ico",
     "slug": "static-hstd-au",
     "status": "up",
-    "uptime": "99.97%",
-    "uptimeDay": "98.71%",
-    "uptimeWeek": "99.82%",
-    "uptimeMonth": "99.96%",
-    "uptimeYear": "99.97%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 738,
-    "timeDay": 781,
-    "timeWeek": 809,
-    "timeMonth": 753,
+    "timeDay": 743,
+    "timeWeek": 803,
+    "timeMonth": 748,
     "timeYear": 738,
-    "dailyMinutesDown": {
-      "2024-07-22": 19
-    }
+    "dailyMinutesDown": {}
   }
 ]
