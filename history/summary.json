@@ -4,53 +4,59 @@
     "url": "https://hstd.au",
     "icon": "https://icons.duckduckgo.com/ip3/hstd.au.ico",
     "slug": "hstd-au",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 759,
-    "timeDay": 577,
-    "timeWeek": 705,
-    "timeMonth": 740,
-    "timeYear": 759,
-    "dailyMinutesDown": {}
+    "time": 785,
+    "timeDay": 1918,
+    "timeWeek": 1024,
+    "timeMonth": 821,
+    "timeYear": 785,
+    "dailyMinutesDown": {
+      "2024-08-31": 0
+    }
   },
   {
     "name": "api.hstd.au",
     "url": "https://api.hstd.au/health",
     "icon": "https://icons.duckduckgo.com/ip3/api.hstd.au.ico",
     "slug": "api-hstd-au",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 790,
-    "timeDay": 610,
-    "timeWeek": 738,
+    "time": 789,
+    "timeDay": 675,
+    "timeWeek": 739,
     "timeMonth": 744,
-    "timeYear": 790,
-    "dailyMinutesDown": {}
+    "timeYear": 789,
+    "dailyMinutesDown": {
+      "2024-08-31": 0
+    }
   },
   {
     "name": "static.hstd.au",
     "url": "https://static.hstd.au",
     "icon": "https://icons.duckduckgo.com/ip3/static.hstd.au.ico",
     "slug": "static-hstd-au",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 734,
-    "timeDay": 593,
-    "timeWeek": 740,
-    "timeMonth": 726,
-    "timeYear": 734,
-    "dailyMinutesDown": {}
+    "time": 743,
+    "timeDay": 1082,
+    "timeWeek": 844,
+    "timeMonth": 753,
+    "timeYear": 743,
+    "dailyMinutesDown": {
+      "2024-08-31": 0
+    }
   }
 ]
